@@ -1,6 +1,6 @@
 ## Primero aprenderé a escribir en latex
 
-<img src="https://render.githubusercontent.com/render/math?math=e^{i \pi} = -1">
+Para <img src="https://render.githubusercontent.com/render/math?math=d \in \mathbb N">
 
 ### Markdown
 
