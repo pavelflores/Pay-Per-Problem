@@ -7,4 +7,4 @@ Para <img src="https://render.githubusercontent.com/render/math?math=d \in \math
 (b) <img src="https://render.githubusercontent.com/render/math?math=\sup \{||x||_1 : x \in \mathbb S^1 \}">
 
 Demostración.
-[Link](https://pavelflores.github.io/Analisis/) and ![Image](src)
+[Link](https://pavelflores.github.io/Analisis/) and ![Image](analisis_1.jpg)
