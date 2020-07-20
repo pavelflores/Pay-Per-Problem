@@ -3,6 +3,7 @@
 Para <img src="https://render.githubusercontent.com/render/math?math=d \in \mathbb N"> sea <img src="https://render.githubusercontent.com/render/math?math=S^{d-1}:=\{x \in R^d:|| x||_2=1\}"> una esfera en <img src="https://render.githubusercontent.com/render/math?math=\mathbb R^d">. Cacule 
 
 (a)
+
 (b)
 
 Demostración.
