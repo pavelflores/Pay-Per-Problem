@@ -1,6 +1,6 @@
 ## Primero aprenderé a escribir en latex
 
-Whenever you commit to this epository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<img src="https://render.githubusercontent.com/render/math?math=e^{i \pi} = -1">
 
 ### Markdown
 
