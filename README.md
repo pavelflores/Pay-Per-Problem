@@ -1,10 +1,6 @@
-# Primero aprenderé a escribir en latex
+# Pay Per Problem
 
-Para <img src="https://render.githubusercontent.com/render/math?math=d \in \mathbb N"> sea <img src="https://render.githubusercontent.com/render/math?math=\mathbb S^{d-1}:=\{x \in \mathbb R^d:||x||_2 =1\}"> una esfera en <img src="https://render.githubusercontent.com/render/math?math=\mathbb R^d">. Cacule 
+Esta pagina tiene como proposito brindar ayuda a problemás clasicos de matemáticas. Algunas de las secciónes pueden ser 
 
-(a) <img src="https://render.githubusercontent.com/render/math?math=\sup \{||x||_\infty : x \in \mathbb S^d \}">
-
-(b) <img src="https://render.githubusercontent.com/render/math?math=\sup \{||x||_1 : x \in \mathbb S^1 \}">
-
-Demostración.
-[Link](https://pavelflores.github.io/Analisis/) and ![Image](analisis_1.jpg)
+- [Analísis matemático](https://pavelflores.github.io/Analisis/)
+- [Alegebra lineal](https://pavelflores.github.io/Analisis/)
