@@ -1,11 +1,11 @@
-## Primero aprenderé a escribir en latex
+# Primero aprenderé a escribir en latex
 
-Para <img src="https://render.githubusercontent.com/render/math?math=d \in \mathbb N">
+Para <img src="https://render.githubusercontent.com/render/math?math=d \in \mathbb N"> sea <img src="https://render.githubusercontent.com/render/math?math=S^{d-1}:=\{x \in R^d:|| x||_2=1\}"> una esfera en <img src="https://render.githubusercontent.com/render/math?math=\mathbb R^d">. Cacule 
 
-### Markdown
+(a)
+(b)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+Demostración.
 ```markdown
 Syntax highlighted code block
 
